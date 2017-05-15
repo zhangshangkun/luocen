@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyMusic</string>
+    <string name="btnPlayorPause">播放</string>
+    <string name="btnStop">停止</string>
+    <string name="btnQuit">退出</string>
+
+    <string name="play">Play</string>
+    <string name="playing">Playing</string>
+    <string name="pause">Pause</string>
+</resources>
